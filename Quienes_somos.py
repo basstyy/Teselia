@@ -20,4 +20,5 @@ luego se menciona de los iniciales de esta región, cualidades y evoluciones de 
 Esperamos profundamente que les guste y disfruten. ¡Atrapalos Ya!""")
 
 #como poner video
-st.audio("C:/Users/user_/Downloads/pokemon-atrapalos-ya-latino-oscar-roa-full-128-ytshorts.savetube.me.mp3")
+
+st.audio("pokemon-atrapalos-ya-latino-oscar-roa-full-128-ytshorts.savetube.me.mp3")
