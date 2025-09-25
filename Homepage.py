@@ -3,7 +3,7 @@ import streamlit as st
 
 # ---------------------  Contenido del sitio   --------------------------#
 # Sección Inicial
-st.title("¡Bienvenidos a la Región de Teselia holamister gonazalo! Un Viaje Inolvidable")
+st.title("¡Bienvenidos a la Región de Teselia! Un Viaje Inolvidable")
 st.badge("Introducción", color="green", icon=":material/chevron_right:")
 
 # Sutítulo
@@ -21,3 +21,4 @@ Además, nos adentraremos en las historias de los amigos de Ash Ketchum en esta 
 
 
 ¡Prepárense para revivir viejos recuerdos y descubrir nuevos secretos de una de las regiones más queridas de todo el universo Pokémon! ¡Comienza tu viaje a Teselia ahora mismo! """)
+
