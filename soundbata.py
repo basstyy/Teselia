@@ -32,4 +32,5 @@ Esta decisión refrescante obligó a los jugadores a explorar y descubrir las 15
 """)
 
 
-st.image("sprites.png", caption="Combate en el juego")
+
+st.video("https://youtu.be/vV0ufSMgh3Q?si=jZXnE7yHkw4YMKdQ", caption="Video del juego")
