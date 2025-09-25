@@ -3,7 +3,7 @@ import streamlit as st
 
 # ---------------------  Contenido del sitio   --------------------------#
 # Sección Inicial
-st.title("¿Quienes somos?")
+st.title("¿Quiénes somos?")
 st.badge("Poke-data", color="blue", icon=":material/chevron_right:")
 
 # Sutítulo
@@ -22,3 +22,4 @@ Esperamos profundamente que les guste y disfruten. ¡Atrapalos Ya!""")
 #como poner video
 
 st.audio("pokemon-atrapalos-ya-latino-oscar-roa-full-128-ytshorts.savetube.me.mp3")
+
